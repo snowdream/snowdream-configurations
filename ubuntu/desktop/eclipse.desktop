@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Eclipse
+Exec=/home/snowdream/bin/eclipse/eclipse
+Type=Application
+DocPath=
+GenericName=Eclipse
+Terminal=false
+Icon=/home/snowdream/bin/eclipse/icon.png
+Caption=Eclipse

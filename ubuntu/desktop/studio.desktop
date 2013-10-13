@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Studio
+Exec=/home/snowdream/bin/android-studio/bin/studio.sh
+Type=Application
+GenericName=Studio
+Terminal=false
+Icon=/home/snowdream/bin/android-studio/bin/idea.png
+Caption=Android Studio
